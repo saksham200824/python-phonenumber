@@ -3,7 +3,7 @@ import time
 times = 5
 type_text = input("enter your text :")
 
-print("Click where you want the typing to start...")
+print("Click where you want to start the typing...")
 time.sleep(3)
 
 for i in range(times) :
